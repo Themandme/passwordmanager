@@ -1,2 +1,2 @@
 # passwordmanager
-Very early beta of a password manager project
+currently unfinished password manager
